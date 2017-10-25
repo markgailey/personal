@@ -1,1 +1,1 @@
-# personal
+# personal scripts and docs
